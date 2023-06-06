@@ -1,4 +1,4 @@
-Reverse-yield factor database for composed foods in the Standard Tables of Food Composition in Japan are updated when any revisions are necessary. Calculation notes for RF are summarized in "Reference for RF". Any inquiries on the database should be send by messages at 'rreverseyieldfactor@gmail.com'.
+Reverse-yield factor database for composite foods in the Standard Tables of Food Composition in Japan are updated when any revisions are necessary. Calculation notes for RF are summarized in "Reference for RF". Any inquiries on the database should be send by messages at 'rreverseyieldfactor@gmail.com'.
 Last updated history:
 
 June 5, 2023
