@@ -3,3 +3,6 @@ Last updated history:
 
 June 5, 2023
 Uploaded "Disaggregation_table_for_the_Standard_Tables_of_Food_Composition_in_Japan_Version_1.0" and "RF_calculated method_Version_1.0" files.
+
+July 17, 2025
+Uploaded "Disaggregation_table_for_the_Standard_Tables_of_Food_Composition_in_Japan_Version_1.2" and "RF_calculated method_Version_1.2" files.
